@@ -16,3 +16,8 @@ Xander Rapstine: https://github.com/Xandromus
 ## License
 N/A
 
+## Live Link
+https://brent-bew-canon.github.io/refactor-website/
+
+## Screenshot
+![Refactor Website Screenshot](assets/images/website%20screenshot.png)
