@@ -7,7 +7,7 @@ This web application refactors code from an existing website to improve accessib
 N/A
 
 ## Usage
-This web application can be used as a reference for how to structure HTML elements.
+This web application can be used as a reference for how to structure the HTML elements.
 
 ## Credits
 Xander Rapstine: https://github.com/Xandromus
